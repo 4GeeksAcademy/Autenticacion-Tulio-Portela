@@ -195,7 +195,7 @@ const Dashboard = ({name}) => {
             <div className="card">
               <div className="mails">
                 <img src="https://randomuser.me/api/portraits/men/20.jpg" />
-                <div className="mail-names">Louis Adkins</div>
+                <div className="mail-names">Túlio Portela</div>
               </div>
               <div className="mail-info">
                 How To Write Better Advertising Copy Heading
@@ -286,7 +286,7 @@ const Dashboard = ({name}) => {
             </div>
           </div>
           <div className="message">
-            <div className="mes-date">Dec 1, 2018</div>
+            <div className="mes-date">14,septiembre 2024 </div>
             <div className="title">
               Old Fashioned Recipe For Preventing Allergies And Chemical
               <div className="title-icons"></div>
